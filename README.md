@@ -27,6 +27,6 @@ Since there was no specific output for the dataset I was working with, I utilize
 
 ## Results
 
-### I utilized plotly and hvplots to create visualizations demonstrating the clustering of the various cryptocurrencies I analyzed in this project. This analysis should be helpful for thos interested in investing in crypto and looking to diversify their portfolio across various investment types. 
+I utilized plotly and hvplots to create visualizations demonstrating the clustering of the various cryptocurrencies I analyzed in this project. This analysis should be helpful for thos interested in investing in crypto and looking to diversify their portfolio across various investment types. 
 
 ![Summary Table](https://github.com/scallina/Cryptocurrency_Analysis/blob/main/Images/3d%20clustered%20plot.png)
